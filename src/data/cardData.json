@@ -1,0 +1,103 @@
+[
+    {
+        "borderColor": "#179D2E",
+        "svg": "/tap.svg",
+        "title": "Plumbing",
+        "text": [
+            "Install / Replace a Toilet",
+            "Install / Replace a Faucet",
+            "Fix a Leaking",
+            "Install / Replace a Sink",
+            "Repair Under Sink Plumbing"
+        ]
+    },
+    {
+        "borderColor": "#0177B8",
+        "svg": "/paint.svg",
+        "title": "Drywall & painting",
+        "text": [
+            "Install Drywall",
+            "Patch and Paint Drywall",
+            "Paint a Wall / Trim",
+            "Paint or Stain A Fence",
+            "Paint a Cabinet Door"
+        ]
+    },
+    {
+        "borderColor": "#F5AF23",
+        "svg": "/sofa.svg",
+        "title": "Furniture assembly",
+        "text": [
+            "Assemble Fitness Equipment",
+            "Assemble - Custom Request",
+            "Assemble a TV Stand",
+            "Assemble Pet Furniture",
+            "Assemble a Bar Cabinet"
+        ]
+    },
+    {
+        "borderColor": "#F02E2C",
+        "svg": "/electrical.svg",
+        "title": "Electrical",
+        "text": [
+            "Install / Replace a Ceiling Fan",
+            "Replace Switch & Outlet Faceplate",
+            "Upgrade to a Video Doorbell",
+            "Install / Replace an Bathroom Exhaust Fan"
+        ]
+    },
+    {
+        "borderColor": "#179D2E",
+        "svg": "/door.svg",
+        "title": "Doors & windows",
+        "text": [
+            "Install / Replace New Door",
+            "Install / Replace a Screen Door",
+            "Install / Replace a Window Screen",
+            "Repair a Door Frame"
+        ]
+    },
+    {
+        "borderColor": "#0177B8",
+        "svg": "/picture.svg",
+        "title": "Hanging & mounting",
+        "text": [
+            "Mount a TV",
+            "Remove a TV Mount from Wall",
+            "Mount and Hang a Projector Screen",
+            "Hang a Bathroom Fixture"
+        ]
+    },
+    {
+        "borderColor": "#F5AF23",
+        "svg": "/instalation.svg",
+        "title": "Appliance installation",
+        "text": [
+            "Replace an Existing Dishwasher",
+            "Replace an Existing Microwave",
+            "Replace an Existing Oven"
+        ]
+    },
+    {
+        "borderColor": "#F02E2C",
+        "svg": "/home.svg",
+        "title": "Smart home",
+        "text": [
+            "Install a Smart Lock",
+            "Install a Smart Home Security Camera",
+            "Mount a Baby Monitor Camera on the Wall",
+            "Install an Under Sink Water Filtration System"
+        ]
+    },
+    {
+        "borderColor": "#179D2E",
+        "svg": "/figures.svg",
+        "title": "Outdoor",
+        "text": [
+            "Assemble an Outdoor Trampoline",
+            "Hang a Garage Shelving Unit",
+            "Install Outdoor Decorative Exterior Window Shutters",
+            "Install a Storm Door"
+        ]
+    }
+]
