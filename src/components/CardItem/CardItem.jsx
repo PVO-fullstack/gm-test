@@ -10,7 +10,7 @@ export const CardItem = ({ cardData }) => {
     <li style={{ borderColor: `${borderColor}` }} className={styles.card}>
       <div className={styles.container}>
         <div className={styles.img_container}>
-          <Image src={svg} width={100} height={100}></Image>
+          <Image src={svg} width={100} height={100} alt={title}></Image>
         </div>
         <div className={styles.text_block}>
           <h2 className={styles.title}>{title}</h2>
